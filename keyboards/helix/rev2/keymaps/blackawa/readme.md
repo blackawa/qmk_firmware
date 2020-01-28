@@ -99,12 +99,12 @@ $ cd qmk_firmware
 
 build
 ```
-$ make helix:default
+$ make helix:blackawa
 ```
 
 flash to keyboard
 ```
-$ make helix:default:avrdude
+$ make helix:blackawa:avrdude
 ```
 
 ## Link
